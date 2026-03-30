@@ -1,1 +1,1 @@
-## Practising Git commannds
+### Practising Git commannds
